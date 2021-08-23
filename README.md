@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ax-bt
-- 👀 I’m interested in online publishing
-- 🌱 I’m currently learning Dev operations
-- 💞️ I’m looking to collaborate on code via testing and documentation
-- 📫 How to reach me is here through GitHub
+- 👀 I’m interested in operations
+- 🌱 I’m currently learning git
+- 💞️ I’m looking to test and document
+- 📫 [ax3btt@gmail.com](mailto:ax3btt@gmail.com)
+
+I manage a set of private repositories and use Python for data analysis projects.
 
 <!---
 ax-bt/ax-bt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
