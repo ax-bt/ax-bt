@@ -5,7 +5,7 @@
 - 📫 [ax3btt@gmail.com](mailto:ax3btt@gmail.com)
 
 I manage a set of private repositories.
-this is my personal account
+This is my personal account
 
 <!---
 ax-bt is a ✨ special ✨
