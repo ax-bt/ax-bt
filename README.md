@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @ax-bt
-- 👀 I’m interested in solutions
-- 🌱 I’m currently learning git
-- 💞️ I’m looking to write
+- 👀 I’m interested in solving questions
+- 🌱 I’m currently teaching Zsh, vi, git, intro-to-Python, & repetition
+- 💞️ I’m looking to write your documentation as markdown
 - 📫 [ax3btt@gmail.com](mailto:ax3btt@gmail.com)
 
 I manage a set of private repositories.
+I work in sprints.
 This is my personal account
 
 <!---
